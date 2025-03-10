@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Himanshi Sheth!  
-💻 Front-End Developer | React | Django | AI Enthusiast | Java | MySQL 
+💻 Front-End Developer | React | Django | AI Enthusiast | Java | MySQL | Full Stack Developer
 
 🚀 Passionate about building innovative web applications with clean, scalable code!  
 
