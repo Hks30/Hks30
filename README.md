@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 About Me  
-- 🎓 **Bachelor’s in Computer Science**, Temple University (Graduating Fall 2024)  
+- 🎓 **Bachelor’s in Computer Science**, Temple University (Graduated Fall 2024)  
 - 💡 **Tech Stack:** HTML, CSS, JavaScript, React, Django (Python), MySQL  
 - 📚 Learning **Next.js, API Integration, and Backend Development**  
 - 🌍 Exploring AI-powered applications and multilingual communication tools  
