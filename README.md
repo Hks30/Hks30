@@ -10,7 +10,8 @@
 - 💡 **Tech Stack:** HTML, CSS, JavaScript, React, Django (Python), MySQL  
 - 📚 Learning **Next.js, API Integration, and Backend Development**  
 - 🌍 Exploring AI-powered applications and multilingual communication tools  
-- 💬 Ask me about **Web Development and Database Management**  
+- 💬 Ask me about **Web Development and Database Management**
+- 🌐 **Check out my website!** [My Portfolio](https://hks30.github.io/portfolio/)
 
 ---
 
