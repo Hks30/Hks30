@@ -22,7 +22,7 @@
 - Integrates YouTube videos for instructional support  
 - Provides dynamic, user-friendly recommendations based on environment & equipment  
 
-🔗 [GitHub Repository](https://github.com/cis3296s24/01-Gains-AI)  
+🔗 [GitHub Repository](https://github.com/Hks30/GaiNS.ai.git)  
 
 ---
 
@@ -32,7 +32,7 @@
 - Built dynamic web pages with React and connected **RESTful APIs**  
 - Managed **state & client-server integration** for a seamless experience  
 
-🔗 [Link](https://cis-linux2.temple.edu/tomcat10/fa24_3308_tur08798/index.html#/home)  
+🔗 [GitHub Repository](https://github.com/Hks30/Travel-Tales.git)  
 
 ---
 
